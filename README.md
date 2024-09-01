@@ -1,1 +1,1 @@
-Project based on esp8266 MCU's
+Project based on stm32 MCU's
