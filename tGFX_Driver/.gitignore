@@ -31,8 +31,10 @@
 *.out
 *.app
 
-# Directory
+# directory
+Debug/
 debug/
+.vscode/
+build/
 output/
 out/
-.vscode/
