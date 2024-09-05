@@ -1,6 +1,7 @@
 # backup files
 *.s#*
 *.b#*
+clr.bat
 
 # directory
 .vscode/
