@@ -5,9 +5,12 @@ clr.bat
 *.workspace
 
 # directory
+.metadata/
 Debug/
 .settings/
 Project Backups/
+
+
 .vscode/
 build/
 output/
