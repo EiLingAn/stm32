@@ -2,8 +2,12 @@
 *.s#*
 *.b#*
 clr.bat
+*.workspace
 
 # directory
+Debug/
+.settings/
+Project Backups/
 .vscode/
 build/
 output/
