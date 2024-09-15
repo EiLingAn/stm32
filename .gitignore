@@ -1,15 +1,13 @@
 # backup files
-*.s#*
-*.b#*
-clr.bat
 *.workspace
+*.txt
+
 
 # directory
 .metadata/
 Debug/
 .settings/
 Project Backups/
-
 
 .vscode/
 build/
